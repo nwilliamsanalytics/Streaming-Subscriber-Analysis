@@ -34,7 +34,6 @@ Long-term value in subscription businesses is driven more by retention than by s
 ## Tools Used
 - Python (pandas, numpy)
 - Tableau Public
-- GitHub
 
 ---
 
