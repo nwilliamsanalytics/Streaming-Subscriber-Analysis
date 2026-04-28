@@ -3,6 +3,8 @@
 Analysis of subscriber strength, retention, and lifetime value across streaming platforms.
 
 ![Subscriber Strength Dashboard](Subscriber%20Strength%20v2.jpg)
+Explore the live dashboard on Tableau Public:  
+[View Dashboard](https://public.tableau.com/views/SubscriberValuevs_Scale/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
